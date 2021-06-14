@@ -6,3 +6,5 @@ La hora puede estar puesta con minutos, de esta forma: por ejemplo, envio a las 
 El programa, abre web.whatsapp.com automaticamente, pega el mensaje puesto en el codigo y envia el mensaje solo, despues de unos segundos
 
 Puede programarse para que se envie en la hora del dia siguiente
+
+Correr primero pip install -r requirements.txt en el shell, para instalar dependencias
